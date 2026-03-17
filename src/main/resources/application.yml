@@ -1,0 +1,4 @@
+# To load the above properties, you need to activate and set the default Spring Boot profile to 'dev'.
+spring:
+  profiles:
+    active: dev
